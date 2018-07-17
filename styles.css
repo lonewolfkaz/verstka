@@ -1,0 +1,14 @@
+header {
+    background-color: #FD739C;
+    color: #fefefe;
+    padding: 15px;
+}
+
+h1, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    font-size: 22px;
+    line-height: 1.5;
+}
