@@ -1,14 +1,25 @@
-header {
-    background-color: #FD739C;
-    color: #fefefe;
-    padding: 15px;
-}
-
-h1, h2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
 body {
     font-size: 22px;
-    line-height: 1.5;
+    line-height: 34px;
 }
+header, 
+nav {
+    background-color: #FD739C;
+    color: #fefefe;
+    padding: 10px 15px 15px 15px; 
+}
+
+h1,
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.2;
+}
+
+main {
+    padding: 10px 15px 15px 15px;     
+}
+
+ul {
+    margin-top: -20px;
+}
+
